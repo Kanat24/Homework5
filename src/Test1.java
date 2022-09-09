@@ -92,7 +92,7 @@ public class Test1 {
                 System.out.println("Осень");
                 break;
             default:
-                System.out.println("Не корректный номер месяца");
+                System.out.print("Не корректный номер месяца");
 
         }
 
